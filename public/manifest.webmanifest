@@ -1,0 +1,38 @@
+{
+  "name": "原习 NativeLearn",
+  "short_name": "原习",
+  "description": "面向小学孩子的练字、英语、数学、日记和积分陪伴 PWA。",
+  "id": ".",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "background_color": "#f8fbfa",
+  "theme_color": "#376b75",
+  "categories": ["education", "kids"],
+  "icons": [
+    {
+      "src": "icons/nativelearn-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "今日原习",
+      "short_name": "今日",
+      "description": "继续今天的轻量学习任务",
+      "url": ".?entry=today",
+      "icons": [
+        {
+          "src": "icons/nativelearn-icon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ]
+}
