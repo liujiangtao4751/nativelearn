@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">原习 NativeLearn</title>
+  <desc id="desc">Origin dot, writing stroke, and leaf mark for NativeLearn.</desc>
+  <rect width="512" height="512" rx="108" fill="#e5f1f1"/>
+  <circle cx="158" cy="364" r="38" fill="#82b86f"/>
+  <path
+    d="M150 360 C165 250, 205 156, 275 144 C360 130, 333 340, 408 306"
+    fill="none"
+    stroke="#477f89"
+    stroke-width="46"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M343 168 C390 120, 434 136, 448 202 C389 213, 356 201, 343 168Z"
+    fill="#82b86f"
+  />
+</svg>
